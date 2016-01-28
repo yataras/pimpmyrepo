@@ -1,5 +1,5 @@
 export default {
-  title: 'pipmyrepo',
-  description: 'Pip my repo',
+  title: 'pimpmyrepo',
+  description: 'Pimp my repo',
   googleAnalyticsId: 'UA-XXXXX-X',
 };
